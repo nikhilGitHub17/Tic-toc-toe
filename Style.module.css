@@ -1,0 +1,29 @@
+.square{
+    
+    width: 70px;
+    height: 70px;
+    align-items: center;
+    border: 2px red solid;
+}
+.boardrow{
+    display:flex;
+    position: relative;
+    left: 600px;
+    width: 210px;
+    margin-top: 0px;
+    
+
+}
+h1{
+    margin-left: 570px;
+    color: rgb(28, 218, 28);
+    text-decoration: underline;
+}
+.status{
+    margin-left: 650px;
+}
+#r{
+    margin-left: 700px;
+    
+   
+}
